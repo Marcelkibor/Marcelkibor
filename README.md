@@ -1,7 +1,7 @@
 # Hi there :wave:
 ## I'm Marcel Kibor
 - :telescope: I’m a fullstack developer.
-- :computer: Technologies: Javascript, Html, CSS, Python, Java, Typescript
+- :computer: Technologies: Javascript, Kotlin, Python, Java, Typescript
 - :seedling: I’m currently learning and looking for new opportunities
 - :mailbox: Contact me: kibormarcel90@gmail.com
 # My Tech Stack
