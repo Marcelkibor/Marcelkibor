@@ -1,4 +1,4 @@
-# Hi there :wave:
+# Hi :wave:
 ## I'm Marcel Kibor
 - :telescope: I’m a fullstack developer.
 - :computer: Technologies: Javascript, Kotlin, Python, Java, Typescript
