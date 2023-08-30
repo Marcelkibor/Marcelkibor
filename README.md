@@ -6,8 +6,6 @@
 - :mailbox: Contact me: kibormarcel90@gmail.com
 # My Tech Stack
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelkibor)](https://github.com/Marcelkibor/github-readme-stats)
-# Stats
-[![Marcelkibor](https://github-readme-stats.vercel.app/api?username=Marcelkibor&show_icons=true&theme=radical)](https://github.com/Marcelkibor/github-readme-stats)
 <!--
 **Marcelkibor/Marcelkibor** is a :sparkles: _special_ :sparkles: repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
