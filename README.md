@@ -2,7 +2,7 @@
 ## I'm Marcel Kibor
 - :telescope: I’m a freelancing fullstack developer.
 - :computer: Technologies: Javascript, Kotlin, Python, Java, Typescript
-- :seedling: I’m currently learning and looking for new opportunities
+- :seedling: I’m currently looking for new opportunities
 - :mailbox: Contact me: kibormarcel90@gmail.com
 # My Tech Stack
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelkibor)](https://github.com/Marcelkibor/github-readme-stats)
