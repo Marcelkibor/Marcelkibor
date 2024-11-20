@@ -1,5 +1,5 @@
 # Hi :wave:
-## I'm Marcel Kibor
+## I'm Marcel
 - :telescope: I’m a fullstack developer.
 - :computer: Technologies: Javascript, Kotlin, Python, Java, Typescript, C#, e.t.c
 - :mailbox: Contact me: kibormarcel90@gmail.com
