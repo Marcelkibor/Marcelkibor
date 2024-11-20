@@ -3,8 +3,6 @@
 - :telescope: I’m a fullstack developer.
 - :computer: Technologies: Javascript, Kotlin, Python, Java, Typescript, C#, e.t.c
 - :mailbox: Contact me: kibormarcel90@gmail.com
-# My Tech Stack
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelkibor)](https://github.com/Marcelkibor/github-readme-stats)
 <!--
 **Marcelkibor/Marcelkibor** is a :sparkles: _special_ :sparkles: repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
